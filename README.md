@@ -1,17 +1,20 @@
 # Scp650plugin
-Plugin for SCP-650 schematic of MER plugin based on Exiled framework of SCP: Secret Laboratory.
+A plugin for SCP: Secret Laboratory (based on the Exiled framework) that adds the eerie behavior of SCP-650, the “Startling Statue.”
+
+When a player enters the same room as SCP-650, the statue will mysteriously move whenever it’s not being directly observed — often appearing closer each time you look away. Its only purpose is to unsettle and surprise players by suddenly appearing behind them or in unexpected positions, creating a creepy and tense atmosphere.
+
+Inspired by SCP Foundation lore, this mod brings SCP-650 to life as a passive but terrifying entity that loves to make you jump.
 
 ![20251028011456_1](https://github.com/user-attachments/assets/4eed9e8c-5efc-4961-b032-2cfb593194a4)
 
 Requirements:
-0. Exiled framework. https://github.com/Exiled-Team/EXILED
-1. MapEditorReborn plugin. https://github.com/Michal78900/MapEditorReborn
+0. Exiled framework. [https://github.com/ex-team/EXILED](https://github.com/ExMod-Team/EXILED)
+1. MapEditorReborn plugin. [https://github.com/Michal78900/MapEditorReborn](https://github.com/rockysx27/MapEditorReborn)
 
 Installation:
-1. Put scp650 schematic folder to your %appdata%\Roaming\Exiled\Configs\MapEditorReborn\Schematics.
+1. Export the dependency `Configs` File from the .zip to the EXILED folder in the %appdata%, and override.
 2. Install scp650plugin.dll to %appdata%\Roaming\Exiled\Plugins.
 3. **Run Local Admin. And Exit.**
-4. **Put global.yml to %appdata%\Roaming\Exiled\Configs\SCP-650 poses. global.yml is pose collection file.**
 5. Check out whether it operates normally.
 
 **Edit Poses/Create Poses:**
