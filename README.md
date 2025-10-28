@@ -1,6 +1,8 @@
 # Scp650plugin
 Plugin for SCP-650 schematic of MER plugin based on Exiled framework of SCP: Secret Laboratory.
 
+![20251028011456_1](https://github.com/user-attachments/assets/4eed9e8c-5efc-4961-b032-2cfb593194a4)
+
 Requirements:
 0. Exiled framework. https://github.com/Exiled-Team/EXILED
 1. MapEditorReborn plugin. https://github.com/Michal78900/MapEditorReborn
